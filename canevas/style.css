@@ -1,0 +1,29 @@
+body{
+   padding: 20px;
+}
+
+#myCanvas{
+    border: black dashed 1px;
+   left:50vw;
+   position: relative;
+}
+#buttonClear{
+    position: absolute;
+    left:51vw;
+    width: 510px;
+
+}
+#d{
+    position: absolute;
+    left:53vw;
+    top: 290px;
+
+}
+
+#buttonAutomat{
+    position: relative;
+    left:70vw;
+    width: 25;
+    top: 50px;
+
+}
